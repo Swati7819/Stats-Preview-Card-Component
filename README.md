@@ -19,7 +19,7 @@ The Stats Preview Card Component is a simple web component showcasing the benefi
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/stats-preview-card-component.git`
+1. Clone the repository: `git clone https://github.com/Swati7819/stats-preview-card-component.git`
 2. Open the `index.html` file in your web browser to view the component.
 
 ## Preview
